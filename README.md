@@ -1,50 +1,41 @@
-<!-- BACKGROUND IMAGE STYLE -->
-<img src="https://files.catbox.moe/z7303n.jpg" width="100%" height="auto"/>
+<!-- BACKGROUND HEADER -->
+<p align="center">
+  <img src="https://files.catbox.moe/z7303n.jpg" width="100%" style="border-radius: 10px;" />
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=14FFEC&center=true&vCenter=true&width=800&lines=⚙️+BUGZKINGZ-MD+WHATSAPP+BOT+IS+LIVE;💀+UNLEASH+THE+DARK+AUTOMATION;🔥+POWERED+BY+TECH+AND+MADNESS;🧠+USE+THE+SESSION+TO+RULE+ALL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&pause=1000&color=00FFEA&center=true&vCenter=true&width=850&lines=👾+BUGZKINGZ-MD+-+NEXT+GEN+WHATSAPP+BOT;⚠️+AUTOMATE+WITH+DARK+POWER+AND+STYLE;🔒+YOUR+SESSION+IS+YOUR+KEY+TO+DOMINATION" alt="Typing SVG" />
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/ulrw4eeBZiUAAAAd/matrix-code.gif" width="250"/>
+  <img src="https://media.tenor.com/ulrw4eeBZiUAAAAd/matrix-code.gif" width="180"/>
+  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAj/hacker-hack.gif" width="180"/>
+  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif" width="180"/>
 </p>
-
----
-
-### 🚀 BUGZKINGZ-MD | NEXT-GEN WHATSAPP USERBOT 💀
-
-> 🧠 Advanced, modular, AI-driven userbot  
-> 🌐 Developed by: **Bugzkingz**  
-> 🛠️ Deployment ready for Render, Railway, Codespace  
-> 🧛‍♂️ Hacked with ❤️, sealed with ⚡power
 
 ---
 
 ## 🧿 SESSION GENERATOR
 
-> 👇 Generate your session securely
-
-🎯 **[https://bugz-session.onrender.com/](https://bugz-session.onrender.com/)**
+🟢 **LIVE NOW** → [Click here to generate session](https://bugz-session.onrender.com/)
 
 ---
 
-## ⚙️ FEATURES
+## 🧠 FEATURES
 
-- 🤖 Fully AI-powered WhatsApp automation  
-- 🧪 Over 50+ Modules (Media, Admin, Fun, Anti-Abuse, More)  
-- 📦 Fast JSON session loader  
-- 🧙 Advanced Group Management  
-- ⚔️ Anti-link, Anti-call, Anti-spam  
-- 🛡️ Auto Block/Report systems  
-- 🔧 Terminal-like responses  
-- 🎮 Game commands  
-- 🔥 And more...
+> 💀 Fully Modular | AI + Media + Fun + Admin  
+> 🧱 Anti-link, Anti-call, Auto-block  
+> 👑 Anonymous Chat, Downloader, Chatbot  
+> 🔧 +50 Full Tech-powered Modules  
+> 💬 Custom Responses  
+> 📈 Fast JSON-Based Session Loader  
+> 💡 No QR Needed — Only Session!
 
 ---
 
-## 🧰 INSTALLATION
+## 🛠️ INSTALLATION
 
 ```bash
 git clone https://github.com/Bugzkingz/BUGZKINGZ-MD
