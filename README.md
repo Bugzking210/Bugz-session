@@ -1,19 +1,44 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=💀+WELCOME+TO+BUGZKINGZ-MD+💀;⚠️+THE+MOST+DANGEROUS+WHATSAPP+BOT+⚠️;😈+USE+AT+YOUR+OWN+RISK+😈" alt="Typing SVG" />
+</h1>
 
-### DEPLOYMENT
- 
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Bugzking210/Bugz-session' target="_blank"><img alt='HEROKU DEPLOY' src='https://img.shields.io/badge/-HEROKU DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
- <br>
-<a href='https://dashboard.render.com' target="_blank">
-    <img alt='DEPLOY TO RENDER' src='https://img.shields.io/badge/-DEPLOY TO RENDER-black?style=for-the-badge&logo=render&logoColor=white'/>
-</a>
- <br>
-<a href='https://app.koyeb.com' target="_blank">
-    <img alt='DEPLOY TO KOYEB' src='https://img.shields.io/badge/-DEPLOY TO KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=white'/>
-</a>
+<p align="center">
+  <img src="https://i.imgur.com/OzF6OSQ.gif" width="300"/>
+</p>
 
+---
 
-# `Owner`
+## 🧟 BUGZKINGZ-MD WHATSAPP USERBOT 💀
 
- <a href="https://github.com/Bugzking210"><img src="https://github.com/Bugzking210.png" width="250" height="250" alt="BUGZKINGZ"/></a>
+> ⚠️ A powerful, highly customized WhatsApp userbot with dark features. Injected with madness and loaded with tools from the deep web. Use it wisely — or don't use it at all.  
+> 👑 Developed by: **Bugzkingz**
 
-   
+---
+
+### 🕸️ SESSION LINK
+
+🔌 **Deploy your session directly here**:  
+🌐 [https://bugz-session.onrender.com/](https://bugz-session.onrender.com/)
+
+---
+
+## 🧨 FEATURES
+
+- 💣 Auto-reply system
+- 👁️ Anonymous chat
+- 🕵️ Anti-spam, Anti-call
+- 🔐 Group management
+- 🧙 Fun & magic commands
+- 📸 Media downloader (YT, Insta, FB)
+- 🛠️ Full customization
+- 👾 +50 more evil tools...
+
+---
+
+## 🧬 INSTALLATION
+
+```bash
+git clone https://github.com/Bugzkingz/BUGZKINGZ-MD
+cd BUGZKINGZ-MD
+npm install
+node .
