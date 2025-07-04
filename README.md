@@ -1,41 +1,50 @@
+<!-- BACKGROUND IMAGE STYLE -->
+<img src="https://files.catbox.moe/z7303n.jpg" width="100%" height="auto"/>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=💀+WELCOME+TO+BUGZKINGZ-MD+💀;⚠️+THE+MOST+DANGEROUS+WHATSAPP+BOT+⚠️;😈+USE+AT+YOUR+OWN+RISK+😈" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=14FFEC&center=true&vCenter=true&width=800&lines=⚙️+BUGZKINGZ-MD+WHATSAPP+BOT+IS+LIVE;💀+UNLEASH+THE+DARK+AUTOMATION;🔥+POWERED+BY+TECH+AND+MADNESS;🧠+USE+THE+SESSION+TO+RULE+ALL" alt="Typing SVG" />
 </h1>
 
+---
+
 <p align="center">
-  <img src="https://i.imgur.com/OzF6OSQ.gif" width="300"/>
+  <img src="https://media.tenor.com/ulrw4eeBZiUAAAAd/matrix-code.gif" width="250"/>
 </p>
 
 ---
 
-## 🧟 BUGZKINGZ-MD WHATSAPP USERBOT 💀
+### 🚀 BUGZKINGZ-MD | NEXT-GEN WHATSAPP USERBOT 💀
 
-> ⚠️ A powerful, highly customized WhatsApp userbot with dark features. Injected with madness and loaded with tools from the deep web. Use it wisely — or don't use it at all.  
-> 👑 Developed by: **Bugzkingz**
-
----
-
-### 🕸️ SESSION LINK
-
-🔌 **Deploy your session directly here**:  
-🌐 [https://bugz-session.onrender.com/](https://bugz-session.onrender.com/)
+> 🧠 Advanced, modular, AI-driven userbot  
+> 🌐 Developed by: **Bugzkingz**  
+> 🛠️ Deployment ready for Render, Railway, Codespace  
+> 🧛‍♂️ Hacked with ❤️, sealed with ⚡power
 
 ---
 
-## 🧨 FEATURES
+## 🧿 SESSION GENERATOR
 
-- 💣 Auto-reply system
-- 👁️ Anonymous chat
-- 🕵️ Anti-spam, Anti-call
-- 🔐 Group management
-- 🧙 Fun & magic commands
-- 📸 Media downloader (YT, Insta, FB)
-- 🛠️ Full customization
-- 👾 +50 more evil tools...
+> 👇 Generate your session securely
+
+🎯 **[https://bugz-session.onrender.com/](https://bugz-session.onrender.com/)**
 
 ---
 
-## 🧬 INSTALLATION
+## ⚙️ FEATURES
+
+- 🤖 Fully AI-powered WhatsApp automation  
+- 🧪 Over 50+ Modules (Media, Admin, Fun, Anti-Abuse, More)  
+- 📦 Fast JSON session loader  
+- 🧙 Advanced Group Management  
+- ⚔️ Anti-link, Anti-call, Anti-spam  
+- 🛡️ Auto Block/Report systems  
+- 🔧 Terminal-like responses  
+- 🎮 Game commands  
+- 🔥 And more...
+
+---
+
+## 🧰 INSTALLATION
 
 ```bash
 git clone https://github.com/Bugzkingz/BUGZKINGZ-MD
